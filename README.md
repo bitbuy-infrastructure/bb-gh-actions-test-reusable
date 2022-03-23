@@ -1,8 +1,6 @@
-# bb-template-helm-repos
+# bb-gh-actions-test-reusable
 
-<!-- TOC -->
-
-- [bb-template-helm-repos](#bb-template-helm-repos)
+- [bb-gh-actions-test-reusable](#bb-gh-actions-test-reusable)
   - [Requirements](#requirements)
   - [Helm commands](#helm-commands)
     - [Install](#install)
@@ -11,8 +9,6 @@
   - [Dev](#dev)
     - [Linting](#linting)
   - [Doco](#doco)
-
-<!-- /TOC -->
 
 ## Requirements
 
